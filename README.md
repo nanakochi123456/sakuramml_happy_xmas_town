@@ -11,10 +11,13 @@ http://oto.chu.jp/mmlbbs6/post.php?mml_id=1530
 src/ にあるファイルを、c:\happy_xmas_town に置いて下さい。
 
 音源セットを、以下からダウンロードします。（巨大です）
+
 http://www.daiba.cx/files/timidity-patches/Diato.sf2
 →Patches\sf2_part\Accordion\
+
 http://www.daiba.cx/files/timidity-patches/Musyng%20Kite.sf2
 →Patches\sf2_all
+
 http://www.daiba.cx/files/timidity-patches/Titanic_200_GMGS_1.2.sf2
 →Patches\sf2_all
 
